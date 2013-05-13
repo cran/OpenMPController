@@ -1,6 +1,6 @@
 Package: OpenMPController
-Version: 0.1-1
-Date: 2013-05-10
+Version: 0.1-2
+Date: 2013-05-13
 Author: Simon Guest <simon.guest@agresearch.co.nz>
 Maintainer: Simon Guest <simon.guest@agresearch.co.nz>
 Title: Control number of OpenMP threads dynamically
@@ -13,4 +13,4 @@ Description: The OpenMPController package provides a function
 License: GPL-2
 NeedsCompilation: yes
 Repository: CRAN
-Date/Publication: 2013-05-10 18:38:13
+Date/Publication: 2013-05-13 06:15:13
